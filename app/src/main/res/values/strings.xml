@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Abhi\'s Cafe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="register">Register</string>
+    <string name="abhii_s_cafe">Abhi\'s Cafe</string>
+    <string name="sign_in">Sign In</string>
+    <string name="todo">TODO</string>
+    <string name="registerr">Register</string>
+    <string name="images_of_veggies">Images of veggies</string>
+    <string name="already_registerd">Already registerd ?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full name</string>
+    <string name="todo1">TODO</string>
+    <string name="already_signed_in">Already signed in ?</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="daily_meal">Daily Meal</string>
+    <string name="favourite">Trending</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">My Cart</string>
+    <string name="yourname_gmail_com">yourname@gmail.com</string>
+    <string name="welcome_to_abhi_s_cafe">Welcome to Abhi\'s Cafe</string>
+    <string name="_10_00_23_00">10:00am-23:00pm</string>
+    <string name="product_name">Product Name</string>
+    <string name="_5_0">5.0</string>
+    <string name="pizza">Pizza</string>
+    <string name="_200">₹200</string>
+    <string name="search_your_food">Search Your Food!</string>
+    <string name="hello_foodie">Hello Foodie!</string>
+    <string name="what_do_you_want">What do you want?</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="_7_00_10_00">7:00pm - 10:00pm</string>
+    <string name="log_out">Log Out</string>
+</resources>
